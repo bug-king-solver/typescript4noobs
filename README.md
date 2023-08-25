@@ -20,16 +20,6 @@
   </p>
 </p>
 
-# Sobre o Projeto
-
-Este projeto tem como intenção ser um apoio aos cursos de react desenvolvidos pelo projeto 4noobs, portanto, os exemplos aqui citados estarão preferencialmente inseridos nesse ecossistema.
-
-O material é pensado para que você consiga dar um pontapé inicial no seu projeto se utilizando de um ambiente preparado para o TypeScript. Se você sentir falta ou necessidade de algum conteúdo sinta-se livre para abrir uma issue sinalizando isso.
-
-Outro ponto é o fato de que editores como o **VSCode** são muito mais amigáveis ao TypeScript e talvez seja uma boa ideia usá-lo caso você esteja iniciando. Porém você também pode usar o Vim, que possui uma ótima integração com Servidor da Linguagem por meio da extensão [coc.nvim](https://github.com/neoclide/coc.nvim).
-
-Todos os exemplos citados nesse artigo podem ser testados no [playground online oficial](https://www.typescriptlang.org/play) caso não queira baixar nada.
-
 # Roadmap
 
 ### Introdução
@@ -51,7 +41,6 @@ Todos os exemplos citados nesse artigo podem ser testados no [playground online 
 4. [Type e Interfaces](/Content/3-Conteudo-Principal/Type-e-Interfaces.md)
 
 5. [Generics](/Content/3-Conteudo-Principal/Generics.md)
-   
 6. [Optional Chaining](/Content/3-Conteudo-Principal/OptionalChaining.md)
 
 # Como Contribuir com o 4noobs
@@ -81,7 +70,7 @@ são **extremamente apreciadas**
 </tr>
 </table>
 
-<p align="center">Made with 💜</p>
+<p align="center">Made with JannyDream</p>
 
 ---
 

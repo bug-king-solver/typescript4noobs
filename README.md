@@ -60,8 +60,6 @@ são **extremamente apreciadas**
 - **Zoey de Souza Pessanha** - _Developer & Member of He4rt Developers_ - [Github](https://github.com/zoedsoupe)
 - **Matheus Navarro** - _Developer & Member of He4rt Developers_ - [Github](https://github.com/navarrotheus)
 
-# Colaboradores
-
 <p align="center">Made with JannyDream</p>
 
 ---
